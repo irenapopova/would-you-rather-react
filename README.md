@@ -2,7 +2,7 @@
 # Would You Rather
 
 Would You Rather is a 
-responsive and mobile-ready polling game that presents the user with a series of questions.
+responsive a polling game that presents the user with a series of questions.
 
 
 It's built with React, Redux, React Router, & Redux Thunk.
@@ -16,17 +16,13 @@ Clone the repository, change directories, and use NPM to install the dependencie
 
 ```bash
 
-$ cd reactnd-project-would-you-rather
+$ cd would-you-rather-react
 $ npm install
 ```
 
-## Usage
+## Start the project
 
 The project can be run with
 
 - `npm start`
-
-The project can be viewed in the browser at
-
-- [http://localhost:3000](http://localhost:3000)
 
