@@ -2,6 +2,7 @@
   "name": "react-project-would-you-rather",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://irenapopova.github.io/would-you-rather-react/",
   "dependencies": {
     "faker": "^4.1.0",
     "fomantic-ui-css": "^2.7.4",
@@ -10,7 +11,7 @@
     "react-dom": "^16.8.6",
     "react-redux": "^6.0.1",
     "react-router-dom": "^5.0.0",
-    "react-scripts": "2.1.8",
+    "react-scripts": "^3.2.0",
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0",
     "semantic-ui-css": "^2.4.1",
@@ -23,12 +24,13 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "deploy" : "npm run build&&gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "#"
+    "url": "https://github.com/irenapopova/would-you-rather-react"
   },
   "browserslist": [
     ">0.2%",
@@ -39,6 +41,7 @@
   "devDependencies": {
     "eslint-config-prettier": "^4.1.0",
     "eslint-plugin-prettier": "^3.0.1",
+    "gh-pages": "^2.1.1",
     "prettier": "^1.16.4"
   }
 }

@@ -59,6 +59,7 @@ export class UserCard extends Component {
       unanswered === null
         ? `1px solid ${colors.grey}`
         : `2px solid ${tabColor.hex}`;
+    if (!author) return null;
 
     return (
       <Segment.Group>

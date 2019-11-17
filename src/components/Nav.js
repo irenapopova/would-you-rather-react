@@ -46,6 +46,8 @@ class Nav extends Component {
                 compact
                 icon="log out"
                 size="mini"
+                color="red"
+                /* style={{ backgroundColor: 'red' }} */
                 onClick={this.handleLogout}
               />
             </Menu.Item>

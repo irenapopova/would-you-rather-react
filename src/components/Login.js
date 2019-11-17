@@ -31,10 +31,6 @@ export class Login extends Component {
             loading={this.state.loading}
           />
         </Segment.Group>
-        <footer className="footer">
-         
-        
-        </footer>
       </Fragment>
     );
   }

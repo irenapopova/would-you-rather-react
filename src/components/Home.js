@@ -26,7 +26,7 @@ const panes = props => {
       render: () => (
         <Tab.Pane>
           {/* try to extract this function outside */}
-          
+
           {userQuestionData.answered.map(question => (
             <UserCard
               author={users}
