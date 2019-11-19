@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/would-you-rather-react/static/css/main.0dd51c21.chunk.css",
+    "main.js": "/would-you-rather-react/static/js/main.beeca007.chunk.js",
+    "main.js.map": "/would-you-rather-react/static/js/main.beeca007.chunk.js.map",
+    "runtime-main.js": "/would-you-rather-react/static/js/runtime-main.801c655b.js",
+    "runtime-main.js.map": "/would-you-rather-react/static/js/runtime-main.801c655b.js.map",
+    "static/js/2.b35fe37d.chunk.js": "/would-you-rather-react/static/js/2.b35fe37d.chunk.js",
+    "static/js/2.b35fe37d.chunk.js.map": "/would-you-rather-react/static/js/2.b35fe37d.chunk.js.map",
+    "index.html": "/would-you-rather-react/index.html",
+    "precache-manifest.1eb968f538733a07da95ce25eb989edc.js": "/would-you-rather-react/precache-manifest.1eb968f538733a07da95ce25eb989edc.js",
+    "service-worker.js": "/would-you-rather-react/service-worker.js",
+    "static/css/main.0dd51c21.chunk.css.map": "/would-you-rather-react/static/css/main.0dd51c21.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.801c655b.js",
+    "static/js/2.b35fe37d.chunk.js",
+    "static/css/main.0dd51c21.chunk.css",
+    "static/js/main.beeca007.chunk.js"
+  ]
+}
